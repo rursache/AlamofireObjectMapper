@@ -3,4 +3,4 @@
 	url = https://github.com/tristanhimmelman/ObjectMapper.git
 [submodule "Carthage/Checkouts/Alamofire"]
 	path = Carthage/Checkouts/Alamofire
-	url = https://github.com/Alamofire/Alamofire.git
+	url = https://github.com/RomanPodymov/Alamofire.git
